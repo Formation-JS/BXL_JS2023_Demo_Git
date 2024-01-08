@@ -1,13 +1,12 @@
 # Demo conflit git !
 
 ## Example
-Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-Test !
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hello World !
 
 ## P'tit ajout 
-Formation JS 
+Formation JS
 
-## Oublie
+## Bientôt la pause :o
 Sequi, pariatur impedit. Doloremque, perspiciatis architecto?
 
 
