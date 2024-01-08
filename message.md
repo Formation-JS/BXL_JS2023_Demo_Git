@@ -3,6 +3,9 @@
 ## Example 😇
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hello World !
 
+## Ceci est un titre 🍔
+Test !
+
 ## P'tit ajout 🎵
 Formation JS
 
