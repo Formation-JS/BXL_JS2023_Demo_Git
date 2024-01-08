@@ -2,6 +2,8 @@
 
 ## Example
 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+
+## Ceci est un titre
 Test !
 
 ## Oublie
